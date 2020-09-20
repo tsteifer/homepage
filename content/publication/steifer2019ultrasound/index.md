@@ -1,7 +1,7 @@
 ---
 title: Ultrasound tissue characterization based on the Lempel–Ziv complexity with application to breast lesion classification
 date: 2019-05-27T07:32:00-08:00
-publication_types: 0
+publication_types: 2
 # 0 = Uncategorized
 # 1 = Conference paper
 # 2 = Journal article
