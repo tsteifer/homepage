@@ -27,22 +27,22 @@ date_format = "Jan 2006"
   description = """I am co-investigator at the Polish National Science Center grant *Algorithmic models of prediction: formal properties and philo-sophical implications* managed by Dariusz Kalociński."""
   
 [[experience]]
-  title = "Labolatory of Professional Electronics"
+  title = "Laboratory of Professional Electronics"
   company = "Institute of Fundamental Technological Research, Polish Academy of Sciences"
   company_url = ""
   location = "Warsaw, Poland"
   date_start = "2014-11-01"
   date_end = ""
-  description = """
+  description = """I am a part of a team focused on medical applications of ultrasound and development of ultrasound imaging research systems.
   """
 
 [[experience]]
   title = "lecturer"
-  company = "Universy of Warsaw"
+  company = "University of Warsaw"
   company_url = ""
   location = "Warsaw, Poland"
   date_start = "2013-01-01"
   date_end = ""
-  description = """Teaching experience at Mathematical Logic and Ultrasound Imaging"""
+  description = """Teaching experience --- Mathematical Logic and Ultrasound Imaging"""
 
 +++
