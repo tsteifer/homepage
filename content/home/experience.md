@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Jobs"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Co-Investigator"
+  company = "Institute of Computer Science, Polish Academy of Sciences"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Warsaw, Poland"
+  date_start = "2019-01-01"
+  date_end = ""
+  description = """I am co-investigator at the Polish National Science Center grant *Algorithmic models of prediction: formal properties and philo-sophical implications* managed by Dariusz Kalociński."""
+  
+[[experience]]
+  title = "Labolatory of Professional Electronics"
+  company = "Institute of Fundamental Technological Research, Polish Academy of Sciences"
+  company_url = ""
+  location = "Warsaw, Poland"
+  date_start = "2014-11-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "lecturer"
+  company = "Universy of Warsaw"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Warsaw, Poland"
+  date_start = "2013-01-01"
+  date_end = ""
+  description = """Teaching experience at Mathematical Logic and Ultrasound Imaging"""
 
 +++
