@@ -100,7 +100,7 @@ address = {street = "ul. Pawińskiego 5B", city = "Warszawa", region = "CA", pos
 coordinates = {latitude = "52.206773", longitude = "20.980976"}
 
 # Directions for visitors to locate you.
-directions = Office 538 on Floor 5"
+directions ="Office 538 on Floor 5"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
