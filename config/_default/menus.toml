@@ -19,13 +19,13 @@
   weight = 30
   
 [[main_right]]
-  name = "<i class=\"ai ai-dblp ai-1x\" style=\"color: #00d1b2;\"></i>"
+  name = "<i class=\"ai ai-dblp ai-2x\" style=\"color: #ffd800;\"></i>"
   post = ""
   url = "https://dblp.org/pid/240/3151.html"
   weight = 35
  
 [[main_right]]
-  name = "<i class=\"ai ai-google-scholar ai-1x\" style=\"color: #00d1b2;\"></i>"
+  name = "<i class=\"ai ai-google-scholar ai-2x\" style=\"color: #4285f4;\"></i>"
   post = ""
   url = "https://scholar.google.pl/citations?user=Sjw4GpgAAAAJ"
   weight = 40
