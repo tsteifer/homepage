@@ -11,12 +11,18 @@
 [[main]]
   name = "papers"
   url = "#publications"
-  weight = 40
+  weight = 20
 
 [[main]]
   name = "contact"
   url = "#contact"
-  weight = 60
+  weight = 30
+  
+[[main_right]]
+  name = "<i class=\"ai dblp\" style=\"color: #00d1b2;\"></i>"
+  post = ""
+  url = "https://dblp.org/pid/240/3151.html"
+  weight = 35
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
