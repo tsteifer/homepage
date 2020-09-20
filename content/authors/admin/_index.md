@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tomasz Steifer
+# title: Tomasz Steifer
 
 # Username (this should match the folder name)
 authors:
@@ -13,15 +13,12 @@ superuser: true
 # role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
-organizations:
-- name: Institute of Fundamental Technological Research, Polish Academy of Sciences
-  url: "https://www.ippt.pan.pl/en/"
+# organizations:
+# - name: Institute of Fundamental Technological Research, Polish Academy of Sciences
+  # url: "https://www.ippt.pan.pl/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: It is hard to list all the stuff that I am interested in but my recent attention orbit around theoretical computer science and foundations of probability, esp. algorithmic randomness. I did my doctoral thesis on computable prediction under supervision of Łukasz Dębowski and Dariusz Kalociński. 
-
- 
-
+bio:  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -33,7 +30,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.pl/citations?user=Sjw4GpgAAAAJ
+  link: 'https://scholar.google.pl/citations?user=Sjw4GpgAAAAJ'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
