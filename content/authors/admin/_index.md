@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+#role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
@@ -43,9 +43,6 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
-#---
+[]
 
 Hello, my name is Tomasz Steifer. I am a mathematician and theoretical computer scientist. My recent attention orbit between computablity theory and foundations of probability, esp. algorithmic randomness theory. I did my doctoral thesis on computable prediction under supervision of Łukasz Dębowski and Dariusz Kalociński. 
