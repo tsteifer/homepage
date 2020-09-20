@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-#role: Professor of Artificial Intelligence
+# role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
@@ -19,6 +19,8 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: It is hard to list all the stuff that I am interested in but my recent attention orbit around theoretical computer science and foundations of probability, esp. algorithmic randomness. I did my doctoral thesis on computable prediction under supervision of Łukasz Dębowski and Dariusz Kalociński. 
+
+ 
 
 
 # Social/Academic Networking
