@@ -1,7 +1,9 @@
 ---
-title: Fixed wagers and stochasticity
-date: 2020-05-27T07:32:00-08:00
-publication_types: "3"
+title: "Fixed wagers and stochasticity"
+authors:
+- admin
+date: "2020-05-27T07:32:00-08:00"
+publication_types: ["3"]
 # 0 = Uncategorized
 # 1 = Conference paper
 # 2 = Journal article
