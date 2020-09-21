@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Welcome"
+title = "Greetings,"
 subtitle = ""
 
 [design]
@@ -45,8 +45,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Welcome to the **Academic Kickstart** template!
+my name is Tomasz Steifer. I am a mathematician and theoretical computer scientist based in Warsaw, Poland. My primary affiliation is the Institute of Fundamental Technological Research @ Polish Academy of Sciences.
 
 
 
