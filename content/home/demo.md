@@ -45,8 +45,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<p style="color:red">My name is Tomasz Steifer. I am a mathematician and theoretical computer scientist based in Warsaw, Poland. My primary affiliation is the Institute of Fundamental Technological Research @ Polish Academy of Sciences.
-</p>
+<p style="color:red">My name is Tomasz Steifer. I am a mathematician and theoretical computer scientist based at IFRS PAS. </p>
 
 
 
