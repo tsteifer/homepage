@@ -44,5 +44,4 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 
 ---
-
-Hello, my name is Tomasz Steifer. I am a mathematician and theoretical computer scientist. My recent attention orbit between computablity theory and foundations of probability, esp. algorithmic randomness theory. I did my doctoral thesis on computable prediction under supervision of Łukasz Dębowski and Dariusz Kalociński. 
+My recent attention orbits around computablity theory and foundations of probability, esp. algorithmic randomness theory. I recently completed my doctoral thesis on computable prediction under supervision of Łukasz Dębowski and Dariusz Kalociński. My affiliation is with the Institute of Fundamentalna Technological Research of Polish Academy of Sciences. I am also a co-investigator at the Polish National Science Center grant led by Dariusz Kalociński at the Institute of Computer Science. 
