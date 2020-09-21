@@ -5,10 +5,10 @@ name = "Custom"
 google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono"
 
 # Font families
-heading_font = "Open Sans"
-body_font = "Open Sans"
-nav_font = "Lato"
-mono_font = "Roboto Mono"
+heading_font = "Lato"
+body_font = "Lato"
+nav_font = "Lato" 
+mono_font = "Open Sans"
 
 # Font size
 font_size = "20"
