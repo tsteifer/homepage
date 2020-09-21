@@ -1,10 +1,10 @@
 ---
-widget = blank
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 1  # Order that this section will appear in.
+widget: blank
+headless: true  # This file represents a page section.
+active: true  # Activate this widget? true/false
+weight: 1  # Order that this section will appear in.
 
-title= ""
+title: ""
 
 # ... Put Your Section Options Here (title etc.) ...
 
