@@ -1,12 +1,19 @@
 ---
+# An instance of the Blank widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: blank
-headless: true  # This file represents a page section.
-active: true  # Activate this widget? true/false
-weight: 1  # Order that this section will appear in.
 
-title: ""
+# Activate this widget? true/false
+active: true
 
-# ... Put Your Section Options Here (title etc.) ...
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 15
+
+title: Hello
+subtitle:
 
 design:
   columns: "1"
@@ -21,4 +28,4 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-Hello world!
+Welcome to my page!
