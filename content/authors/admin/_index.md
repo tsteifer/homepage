@@ -28,6 +28,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: orcid
+  icon_pack: ai
+  link: 'https://orcid.org/0000-0003-0753-1042'
+- icon: dblp
+  icon_pack: ai
+  link: 'https://dblp.org/pid/240/3151.html'
 - icon: google-scholar
   icon_pack: ai
   link: 'https://scholar.google.pl/citations?user=Sjw4GpgAAAAJ'
@@ -44,4 +50,5 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 
 ---
-My recent attention orbits around computablity theory and foundations of probability, esp. algorithmic randomness theory. I am also interested in things such as signal processing, machine learning, mathematical logic and information theory. I have recently completed my doctoral thesis <i>Computable prediction of infinite binary sequence with zero-one loss</i> under the supervision of Łukasz Dębowski and <a href=http:/dariuszkalocinski.com>Dariusz Kalociński</a>. My affiliation is with the Institute of Fundamental Technological Research of Polish Academy of Sciences. I am also a co-investigator at the Polish National Science Center grant <i>Algorithmic models of prediction: formal properties and philosophical implications</i> managed by Dariusz Kalociński. 
+My affiliation is with the <a href="https://www.ippt.pan.pl/en/">Institute of Fundamental Technological Research</a> of <a href="https://institution.pan.pl/">Polish Academy of Sciences</i> where I am a member of the Laboratory of Professional Electronics.
+I have recently completed my doctoral thesis <i>Computable prediction of infinite binary sequence with zero-one loss</i> under the supervision of <a href="https://home.ipipan.waw.pl/l.debowski/">Łukasz Dębowski</a> and <a href=http:/dariuszkalocinski.com>Dariusz Kalociński</a>.  I am also a co-investigator at the Polish National Science Center grant <i>Algorithmic models of prediction: formal properties and philosophical implications</i> managed by Dariusz Kalociński. My recent attention orbits around computablity theory and foundations of probability, esp. algorithmic randomness theory. I am also interested in things such as signal processing, machine learning, mathematical logic and information theory.
