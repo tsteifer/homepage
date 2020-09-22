@@ -2,14 +2,14 @@
 name = "Custom"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono|Fanwood+Text|EB+Garamond|Vollkorn"
+google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono|Fanwood+Text|EB+Garamond|Vollkorn|Rosaviro"
 
 # Font families
 heading_font = "Fanwood Text"
 body_font = "Lato"
-nav_font = "Fanwood Text" 
+nav_font = "Rosaviro" 
 mono_font = "Open Sans"
 
 # Font size
 font_size = "20"
-font_size_small = "16"
+font_size_small = "30"
