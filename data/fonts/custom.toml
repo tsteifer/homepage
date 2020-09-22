@@ -6,8 +6,8 @@ google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono|Fanwood+Text|EB+Garamond|Voll
 
 # Font families
 heading_font = "Fanwood Text"
-body_font = "EB Garamond"
-nav_font = "Vollkorn" 
+body_font = "Lato"
+nav_font = "Fanwood Text" 
 mono_font = "Open Sans"
 
 # Font size
