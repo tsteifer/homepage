@@ -15,5 +15,5 @@ publication_types: ["3"]
 # 7 = Thesis (v4.2+ required)
 # 8 = Patent (v4.2+ required)
 publication: "arXiv preprint arXiv:2005.03627"
-url: arxiv.org/abs/2005.03627
+url_pdf: https://arxiv.org/abs/2005.03627
 ---

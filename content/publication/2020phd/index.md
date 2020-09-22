@@ -1,8 +1,8 @@
 ---
-title: "Fixed wagers and stochasticity"
+title: "Computable prediction of infinite binary sequences with zero-one loss"
 authors:
 - Tomasz Steifer
-date: "2020-05-27T07:32:00-08:00"
+date: "2020-02-01T07:32:00-08:00"
 publication_types: ["7"]
 # 0 = Uncategorized
 # 1 = Conference paper

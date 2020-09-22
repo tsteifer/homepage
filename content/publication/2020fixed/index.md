@@ -1,7 +1,7 @@
 ---
 title: "Fixed wagers and stochasticity"
 authors:
-- admin
+- Tomasz Steifer
 date: "2020-05-27T07:32:00-08:00"
 publication_types: ["3"]
 # 0 = Uncategorized
