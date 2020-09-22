@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Greetings,"
+title = "Greetings, my name is Tomasz Steifer."
 subtitle = ""
 
 [design]
@@ -45,7 +45,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<p style="color:white">My name is Tomasz Steifer. I am a mathematician and theoretical computer scientist based at IFRS PAS. </p>
+<p style="color:white">I am a mathematician and theoretical computer scientist based at IFRS PAS. </p>
 
 
 
