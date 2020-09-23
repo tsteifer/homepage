@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Co-Investigator"
   company = "Institute of Computer Science, Polish Academy of Sciences"
-  company_url = "ipipan.waw.pl"
+  company_url = http://ipipan.waw.pl
   location = "Warsaw, Poland"
   date_start = "2019-01-01"
   date_end = ""
@@ -29,7 +29,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Laboratory of Professional Electronics"
   company = "Institute of Fundamental Technological Research, Polish Academy of Sciences"
-  company_url = "www.ippt.pan.pl"
+  company_url = http://ippt.pan.pl
   location = "Warsaw, Poland"
   date_start = "2014-11-01"
   date_end = ""
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "lecturer"
   company = "University of Warsaw"
-  company_url = "uw.edu.pl"
+  company_url = http://uw.edu.pl
   location = "Warsaw, Poland"
   date_start = "2013-01-01"
   date_end = ""
