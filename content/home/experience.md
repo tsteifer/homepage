@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company = "University of Warsaw"
   company_url = "http://uw.edu.pl"
   location = "Warsaw, Poland"
-  date_end = "2017-02-30"
+  date_end = "2017-02-01"
   date_start = "2015-10-01"
   description = """I taught logic to philosophy students and ultrasound imaging to medical physicists"""
 
