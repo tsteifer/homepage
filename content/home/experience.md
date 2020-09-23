@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   company_url = "http://uw.edu.pl"
   location = "Warsaw, Poland"
   date_start = "2015-10-01"
-  date_end = ""
+  date_end = "2017-02-30"
   description = """Teaching experience --- Mathematical Logic and Ultrasound Imaging"""
 
 +++
