@@ -34,12 +34,12 @@ social:
 - icon: dblp
   icon_pack: ai
   link: 'https://dblp.org/pid/240/3151.html'
-- icon: google-scholar
-  icon_pack: ai
-  link: 'https://scholar.google.pl/citations?user=Sjw4GpgAAAAJ'
 - icon: researchgate
   icon_pack: ai
   link: 'https://www.researchgate.net/profile/Tomasz_Steifer'
+- icon: google-scholar
+  icon_pack: ai
+  link: 'https://scholar.google.pl/citations?user=Sjw4GpgAAAAJ'
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -58,4 +58,4 @@ My affiliation is with the <a href="https://www.ippt.pan.pl/en/">Institute of Fu
 
 I have recently completed my doctoral thesis <i>Computable prediction of infinite binary sequence with zero-one loss</i> under the supervision of <a href="https://home.ipipan.waw.pl/l.debowski/">Łukasz Dębowski</a> and <a href=http:/dariuszkalocinski.com>Dariusz Kalociński</a>. I am also a co-investigator at the Polish National Science Center grant <i>Algorithmic models of prediction: formal properties and philosophical implications</i> managed by Dariusz Kalociński. 
 
-My recent attention orbits around computablity theory and foundations of probability, esp. algorithmic randomness theory. I am also interested in things such as signal processing, machine learning, mathematical logic and information theory.
+As of late, my attention orbits around computablity theory and foundations of probability, esp. algorithmic randomness theory. I am also continuously interested in things such as signal processing, machine learning, mathematical logic and information theory. 
