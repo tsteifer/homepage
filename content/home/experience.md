@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Warsaw, Poland"
   date_start = "2014-11-01"
   date_end = ""
-  description = """I am a member of a team focused on medical applications of ultrasound and development of ultrasound imaging research systems. As part of my duties I designed, e.g., signal processing algorithms for <a href="/publication/2017doppler/">monitoring of patients with ventricular assist devices</a> and used information theory to <a href="/publication/2020bmsp/">classify breast lesions</a>.
+  description = """I am a member of a team focused on medical applications of ultrasound and development of ultrasound imaging research systems. As part of my duties I designed signal processing algorithms for <a href="/publication/2017doppler/">monitoring of patients with ventricular assist devices</a> and used information theory to <a href="/publication/2020bmsp/">classify breast lesions</a>.
   """
 
 [[experience]]
