@@ -15,5 +15,7 @@ publication_types: ["2"]
 # 7 = Thesis (v4.2+ required)
 # 8 = Patent (v4.2+ required)
 publication: "2019 IEEE International Symposium on Information Theory (ISIT), 2504-2508"
-url_pdf: https://ieeexplore.ieee.org/abstract/document/8849587/
+doi: 10.1109/ISIT.2019.8849587
+abstract: 
+url_source: https://ieeexplore.ieee.org/abstract/document/8849587/
 ---
