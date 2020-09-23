@@ -33,7 +33,7 @@ social:
   link: 'https://dblp.org/pid/240/3151.html'
 - icon: researchgate
   icon_pack: ai
-  link: 'https://www.researchgate.net/profile/Tomasz_Steifer''
+  link: 'https://www.researchgate.net/profile/Tomasz_Steifer'
 - icon: orcid
   icon_pack: ai
   link: 'https://orcid.org/0000-0003-0753-1042'
