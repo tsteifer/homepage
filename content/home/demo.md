@@ -45,7 +45,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<p style="color:white">I am a mathematician and theoretical computer scientist based at IFRS PAS. </p>
+<p style="color:white">I am a mathematician and theoretical computer scientist based at IFTR PAS. </p>
 
 
 
