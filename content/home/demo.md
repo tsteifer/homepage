@@ -22,7 +22,10 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#2b292a"
+  #color = "#2b292a"
+  
+  gradient_start = "#2b292a"
+  gradient_end = "#585858"
   
   # Background image.
  # image = "isit.jpg"  # Name of image in `static/media/`.
@@ -36,7 +39,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["15px", "0", "15px", "0"]
 
 [advanced]
  # Custom CSS. 
