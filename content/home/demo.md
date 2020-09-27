@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#4b4b4b"
+  color = "#2b292a"
   
   # Background image.
  # image = "isit.jpg"  # Name of image in `static/media/`.
