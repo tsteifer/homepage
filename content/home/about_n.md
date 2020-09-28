@@ -33,7 +33,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-# {{< figure library="true" src="isit.jpg">}}
 My affiliation is with the <a href="https://www.ippt.pan.pl/en/">Institute of Fundamental Technological Research</a> of <a href="https://institution.pan.pl/">Polish Academy of Sciences</a> where I am a member of the Laboratory of Professional Electronics.
 
 I have recently completed my doctoral thesis <i>Computable prediction of infinite binary sequences with zero-one loss</i> under the supervision of <a href="https://home.ipipan.waw.pl/l.debowski/">Łukasz Dębowski</a> and <a href=http:/dariuszkalocinski.com>Dariusz Kalociński</a>. I am also a co-investigator at the Polish National Science Center grant <i>Algorithmic models of prediction: formal properties and philosophical implications</i> managed by Dariusz Kalociński. 
