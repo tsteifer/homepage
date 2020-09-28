@@ -38,7 +38,7 @@ My affiliation is with the <a href="https://www.ippt.pan.pl/en/">Institute of Fu
 I have recently completed my doctoral thesis <i>Computable prediction of infinite binary sequences with zero-one loss</i> under the supervision of <a href="https://home.ipipan.waw.pl/l.debowski/">Łukasz Dębowski</a> and <a href=http:/dariuszkalocinski.com>Dariusz Kalociński</a>. I am also a co-investigator at the Polish National Science Center grant <i>Algorithmic models of prediction: formal properties and philosophical implications</i> managed by Dariusz Kalociński. 
 
 As of late, my attention orbits around computablity theory and foundations of probability, esp. algorithmic randomness theory. I am also continuously interested in things such as signal processing, machine learning, mathematical logic and information theory. 
-I have a strong affinity for <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/meta.12029">mathematical philosophy</a> and I like to think that some of my research is a part of it. I also like $\LaTeX$.
+I have a strong affinity for <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/meta.12029">mathematical philosophy</a> and I like to think that some of my research is a part of it. 
 
 <p style="font-size:50px">
 <a href="mailto:tsteifer@ippt.pan.pl">{{< icon name="envelope" pack="fas" >}}</a>
