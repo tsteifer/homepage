@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -40,7 +40,7 @@ I have recently completed my doctoral thesis <i>Computable prediction of infinit
 As of late, my attention orbits around computablity theory and foundations of probability, esp. algorithmic randomness theory. I am also continuously interested in things such as signal processing, machine learning, mathematical logic and information theory. 
 I have a strong affinity for <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/meta.12029">mathematical philosophy</a> and I like to think that some of my research is a part of it. I also like $\LaTeX$.
 
-<p style="font-size:30px">
+<p style="font-size:50px">
 <a href="mailto:tsteifer@ippt.pan.pl">{{< icon name="envelope" pack="fas" >}}</a>
 <a href="https://dblp.org/pid/240/3151.html">{{< icon name="dblp" pack="ai" >}}</a>
 <a href="https://www.researchgate.net/profile/Tomasz_Steifer">{{< icon name="researchgate" pack="ai" >}}</a>
