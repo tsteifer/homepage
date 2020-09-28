@@ -24,7 +24,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["30px", "0", "30px", "0"]
+  padding = ["30px", "30", "30px", "30"]
 
 [advanced]
  # Custom CSS. 
@@ -36,12 +36,13 @@ subtitle = ""
 
 <div class="row">
   <div class="column">
+<p align="justify">
 My affiliation is with the <a href="https://www.ippt.pan.pl/en/">Institute of Fundamental Technological Research</a> of <a href="https://institution.pan.pl/">Polish Academy of Sciences</a> where I am a member of the Laboratory of Professional Electronics.
 
 I have recently completed my doctoral thesis <i>Computable prediction of infinite binary sequences with zero-one loss</i> under the supervision of <a href="https://home.ipipan.waw.pl/l.debowski/">Łukasz Dębowski</a> and <a href=http:/dariuszkalocinski.com>Dariusz Kalociński</a>. I am also a co-investigator at the Polish National Science Center grant <i>Algorithmic models of prediction: formal properties and philosophical implications</i> managed by Dariusz Kalociński. 
 
 As of late, my attention orbits around computablity theory and foundations of probability, esp. algorithmic randomness theory. I am also continuously interested in things such as signal processing, machine learning, mathematical logic and information theory. 
-I have a strong affinity for <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/meta.12029">mathematical philosophy</a> and I like to think that some of my research is a part of it.
+I have a strong affinity for <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/meta.12029">mathematical philosophy</a> and I like to think that some of my research is a part of it.</p>
 
 <p style="font-size:44px">
 <a href="mailto:tsteifer@ippt.pan.pl">{{< icon name="envelope" pack="fas" >}}</a>
@@ -51,5 +52,5 @@ I have a strong affinity for <a href="https://onlinelibrary.wiley.com/doi/full/1
 <a href="https://scholar.google.pl/citations?user=Sjw4GpgAAAAJ">{{< icon name="google-scholar" pack="ai" >}}</a>
 </p>
 </div>
-  <div class="column"></div>
+  <div class="column">I have recently completed my doctoral thesis <i>Computable prediction of infinite binary sequences with zero-one loss</i> under the supervision of <a href="https://home.ipipan.waw.pl/l.debowski/">Łukasz Dębowski</a> and <a href=http:/dariuszkalocinski.com>Dariusz Kalociński</a>. I am also a co-investigator at the Polish National Science Center grant <i>Algorithmic models of prediction: formal properties and philosophical implications</i> managed by Dariusz Kalociński. </div>
 </div>
