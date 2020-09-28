@@ -28,19 +28,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "
- .column {
-  float: left;
-}
-
-.left {
-  width: 70%;
-}
-
-.right {
-  width: 30%;
-}
- "
+ css_style = ""
  
  # CSS class.
  css_class = ""
