@@ -24,7 +24,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["30px", "30", "30px", "30"]
+  padding = ["30px", "30px", "30px", "30px"]
 
 [advanced]
  # Custom CSS. 
@@ -34,6 +34,17 @@ subtitle = ""
  css_class = ""
 +++
 
+.column {
+  float: left;
+}
+
+.left {
+  width: 70%;
+}
+
+.right {
+  width: 30%;
+}
 <div class="row">
   <div class="column">
 <p align="justify">
