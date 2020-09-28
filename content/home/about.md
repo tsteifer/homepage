@@ -12,3 +12,4 @@ title = "About me"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
+Lorem ipsum 
