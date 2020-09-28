@@ -24,7 +24,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
- # padding = ["40px", "40px", "40px", "40px"]
+ padding = ["40px", "40px", "40px", "40px"]
 
 [advanced]
  # Custom CSS. 
@@ -34,6 +34,9 @@ subtitle = ""
  css_class = ""
 +++
 <div class="row">
+  <div class="col-12 col-lg-4">
+ {{< figure library="true" src="isit.jpg" title="A placeholder image" >}}
+ </div>
   <div class="col-12 col-lg-8">
     <div align="justify">
 My affiliation is with the <a href="https://www.ippt.pan.pl/en/">Institute of Fundamental Technological Research</a> of <a href="https://institution.pan.pl/">Polish Academy of Sciences</a> where I am a member of the Laboratory of Professional Electronics.
@@ -51,6 +54,4 @@ I have a strong affinity for <a href="https://onlinelibrary.wiley.com/doi/full/1
 <a href="https://scholar.google.pl/citations?user=Sjw4GpgAAAAJ">{{< icon name="google-scholar" pack="ai" >}}</a>
 </p>
 </div>
-  <div class="col-12 col-lg-4">
- {{< figure library="true" src="isit.jpg" title="A placeholder image" >}}
- </div>
+  
