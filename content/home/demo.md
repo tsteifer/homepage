@@ -23,8 +23,8 @@ subtitle = ""
 
   # Background color.
   #color = "#2b292a"
-  # gradient_start = "#403f3f"
-  # gradient_end = "#474747"
+  gradient_start = "#403f3f"
+  gradient_end = "#474747"
   
   # Background image.
   # image = "isit.jpg"  # Name of image in `static/media/`.
@@ -47,10 +47,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<div style="color: #f2f2f2; background: #ff4a4a; 
-  font-size: 20px; margin: 0 5px 24px; float: left; padding: 5px; margin: 0 5px 24px;">
+
 I am a mathematician and theoretical computer scientist based at IFTR PAS.
-</div>
+
 
 
 
