@@ -23,8 +23,8 @@ subtitle = ""
 
   # Background color.
   #color = "#2b292a"
-  gradient_start = "#403f3f"
-  gradient_end = "#474747"
+  #gradient_start = "#403f3f"
+  #gradient_end = "#474747"
   
   # Background image.
   # image = "isit.jpg"  # Name of image in `static/media/`.
