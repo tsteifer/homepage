@@ -48,7 +48,7 @@ subtitle = ""
  css_class = ""
 +++
 <div style="color: #f2f2f2; background: #ff4a4a; 
-  font-size: 20px; font-weight: 700; margin: 0 5px 24px; float: left; padding: 10px; margin: 0 5px 24px;">
+  font-size: 20px; font-weight: 700; margin: 0 5px 24px; float: left; padding: 5px; margin: 0 5px 24px;">
 I am a mathematician and theoretical computer scientist based at IFTR PAS.
 </div>
 
