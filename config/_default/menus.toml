@@ -17,21 +17,8 @@
   name = "contact"
   url = "#contact"
   weight = 30
-  
-[[main_right]]
-  name = "<i class=\"ai ai-dblp ai-1x\" style=\"color: #fff;\"></i>"
-  post = ""
-  url = "https://dblp.org/pid/240/3151.html"
-  weight = 35
+    
  
-[[main_right]]
-  name = "<i class=\"ai ai-google-scholar ai-1x\" style=\"color: #fff;\"></i>"
-  post = ""
-  url = "https://scholar.google.pl/citations?user=Sjw4GpgAAAAJ"
-  weight = 40
-  
- 
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
