@@ -2,7 +2,7 @@
 name = "Custom"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono|Fanwood+Text||PT+Serif|Alegreya|"
+google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono|Fanwood+Text|PT+Serif|Alegreya"
 
 # Font families
 heading_font = "Fanwood Text"
