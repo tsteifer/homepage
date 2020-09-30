@@ -8,13 +8,13 @@ h1 { color: #ce6167; background: #ffffff; position: static; line-height: 50px;
 .welcome-text {font-size: 50px; background: #bbbbbb;  word-spacing: 3px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;}
 
 @include media-breakpoint-down(md) {
-  .welcome-text {font-size: 30px; background: #bbbbbb;  word-spacing: 3px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;}
+  .welcome-text {font-size: 25px; background: #bbbbbb;  word-spacing: 3px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;}
 }
 
 
 body {margin-top: 40px;}
 
-.section-heading {margin-top: 0px; padding: 8px;} 
+.section-heading {margin-top: 0px; padding-top: 8px;} 
 
 
 .card {
