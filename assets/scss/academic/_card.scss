@@ -18,8 +18,6 @@
 
 .dark .card-simple {
   background: rgb(40, 42, 54);
-  box-shadow: 0 1px 4px rgba(0,0,0,.04);
-  border: 1px solid rgb(68, 71, 90);
 }
 
 /* In page listings, display the linked summaries as normal text except for the hover cursor. */
@@ -33,7 +31,6 @@ a.summary-link {
   overflow: hidden;
   text-overflow: ellipsis;
   background: #fff;
-  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
   transition: all 0.2s ease-out;
 }
 
