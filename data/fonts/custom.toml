@@ -2,11 +2,11 @@
 name = "Custom"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono|Fanwood+Text|PT+Serif|Alegreya"
+google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono|Fanwood+Text|PT+Serif|Alegreya|Quicksand"
 
 # Font families
 heading_font = "Fanwood Text"
-body_font = "Alegreya"
+body_font = "Quicksand"
 nav_font = "Open Sans" 
 mono_font = "Open Sans"
 
