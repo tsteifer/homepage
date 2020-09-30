@@ -20,5 +20,17 @@ h1 { color: #ce6167; background: #ffffff;
   border-radius: 0px;
 }
 
+ .card-simple {
+  background: #fff;
+/* this is the part that takes out the shadow */
+  box-shadow: none;
+  border: 1px solid rgba(0,0,0,.09);
+  border-radius: 0px;
+  margin-top: 20px;
+  padding: 15px 20px 15px 20px;
+}
+
+
+
  .navbar {
-  height: 50px; }
+  height: 40px; }
