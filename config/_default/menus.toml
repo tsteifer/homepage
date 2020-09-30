@@ -18,11 +18,7 @@
   url = "#contact"
   weight = 30
 
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["0px", "0", "0px", "0"]
-    
+   
  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
