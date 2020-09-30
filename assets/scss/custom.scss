@@ -9,8 +9,8 @@ h1 { color: #ce6167; background: #ffffff; position: static; line-height: 50px;
 
 @include media-breakpoint-down(md) {
   
-  .welcome { color: #f2f2f2; line-height: 44px; display: block; background: #ce6167; word-spacing: 0px;
-  font-size: 44px; ; margin: 0px 0px 0px; padding: 0px 0px 0px;}
+  .welcome { color: #f2f2f2; line-height: 42px; display: block; background: #ce6167; word-spacing: 0px;
+  font-size: 42px; ; margin: 0px 0px 0px; padding: 0px 0px 0px;}
   
   .welcome-text {font-size: 30px; line-height: 30px; display: block; background: #bbbbbb;  word-spacing: 0px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;}
 }
