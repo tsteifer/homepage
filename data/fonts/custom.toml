@@ -2,11 +2,11 @@
 name = "Custom"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono|Fanwood+Text|EB+Garamond|PT+Serif|Libre+Baskerville|Cormorant+Garamond:wght@400;500"
+google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono|Fanwood+Text|EB+Garamond|PT+Serif|Libre+Baskerville|Sorts+Mill+Goudy"
 
 # Font families
 heading_font = "Fanwood Text"
-body_font = "Cormorant Garamond"
+body_font = "Sorts Mill Goudy"
 nav_font = "PT Serif" 
 mono_font = "Open Sans"
 
