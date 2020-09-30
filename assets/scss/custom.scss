@@ -8,13 +8,8 @@ h1 { color: #ce6167; background: #ffffff;
 .welcome-text {font-size: 30px;  word-spacing: 3px; font-family:'Fanwood Text'; padding: 2px; margin: 0px 0px 0px;}
 
 
-.home-section {
-  position: static;  // Required for component positioning within section.
-  background-color: $sta-home-section-odd;
-  padding: 110px 0 110px 0;
-  animation: intro 0.3s both;
-  animation-delay: 0.15s;
-}
+.home-section.fullscreen {
+  min-height: calc(100vh - 40px);
 
 .card {
   position: static;
