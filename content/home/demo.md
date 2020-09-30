@@ -3,7 +3,7 @@
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "welcome"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
@@ -22,9 +22,9 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  #color = "#2b292a"
-  gradient_start = "#403f3f"
-  gradient_end = "#474747"
+  color = "#403f3f"
+  #gradient_start = "#403f3f"
+  #gradient_end = "#474747"
   
   # Background image.
   # image = "isit.jpg"  # Name of image in `static/media/`.
@@ -47,7 +47,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<p style="color:white">I am a mathematician and theoretical computer scientist based at IFTR PAS. </p>
+
+I am a mathematician and theoretical computer scientist based at IFTR PAS.
+
 
 
 
