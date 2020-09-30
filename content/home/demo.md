@@ -13,7 +13,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,9 +22,9 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#403f3f"
-  #gradient_start = "#403f3f"
-  #gradient_end = "#474747"
+  #color = "#403f3f"
+  gradient_start = "#403f3f"
+  gradient_end = "#474747"
   
   # Background image.
   # image = "isit.jpg"  # Name of image in `static/media/`.
@@ -38,7 +38,7 @@ subtitle = ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["15px", "0", "15px", "0"]
+  padding = ["30px", "0", "30px", "0"]
 
 [advanced]
  # Custom CSS. 
