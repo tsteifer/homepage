@@ -4,7 +4,7 @@
 <div class="row">
   {{ if ne $columns "1" }}
     <div class="col-12 col-lg-4 section-heading">
-      {{ with $st.Title }}<h1 class="welcome">{{ . | markdownify | emojify }}</h1>{{ end }}
+      {{ with $st.Title }}<span class="welcome">{{ . | markdownify | emojify }}</span>{{ end }}
       {{ with $st.Params.subtitle }}{{ . | markdownify | emojify }}{{ end }}
     </div>
     <div class="col-12 col-lg-8">
