@@ -6,8 +6,8 @@ google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono|Fanwood+Text|EB+Garamond|PT+S
 
 # Font families
 heading_font = "Fanwood Text"
-body_font = "Open Sans"
-nav_font = "PT Serif" 
+body_font = "Libre Baskerville"
+nav_font = "Open Sans" 
 mono_font = "Open Sans"
 
 # Font size
