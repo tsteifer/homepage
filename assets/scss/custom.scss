@@ -18,6 +18,12 @@ body {margin-top: 40px;}
   width: 100%;
 }
 
+.content-widget-hr {
+  margin-top: 0rem;
+  padding-top: 0rem;
+  border-top: 1px solid rgba(0,0,0,.05);
+}
+
 .card {
   position: static;
   display: flex;
