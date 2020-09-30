@@ -9,7 +9,7 @@ h1 { color: #ce6167; background: #ffffff;
 
 
 .card {
-  position: relative;
+  position: static;
   display: flex;
   flex-direction: column;
   min-width: 0; // See https://github.com/twbs/bootstrap/pull/22740#issuecomment-305868106
