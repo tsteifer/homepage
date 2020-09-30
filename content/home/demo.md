@@ -47,9 +47,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+<span class="welcome-text">
 I am a mathematician and theoretical computer scientist based at IFTR PAS.
-
+</span>
 
 
 
