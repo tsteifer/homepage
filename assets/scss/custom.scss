@@ -17,5 +17,6 @@ h1 { color: #ce6167; background: #ffffff;
   word-wrap: break-word;
   background-color: $card-bg;
   background-clip: border-box;
-  border: $card-border-width solid ;
+  border: $card-border-width hidden ;
+  border-radius: 0px;
 }
