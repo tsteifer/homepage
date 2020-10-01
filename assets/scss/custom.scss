@@ -9,10 +9,10 @@ h1 { color: #A8A8A8; background: #ffffff; position: static; line-height: 50px;
 
 @include media-breakpoint-down(md) {
   
-  .welcome { color: #f2f2f2; height: 44px; display: block; background: #ce6167; word-spacing: 0px;
-  font-size: 22px; ; margin: 0px 0px 20px; padding: 0px 0px 0px;}
+  .welcome { color: #f2f2f2; height: 42px; display: block; background: #ce6167; word-spacing: 0px;
+  font-size: 42px; ; margin: 0px 0px 20px; padding: 0px 0px 0px;}
   
-  .welcome-text {font-size: 22px; height: 22px; display: block; background: #A8A8A8;  word-spacing: 0px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;}
+  .welcome-text {font-size: 30px; height: 30px; display: block; background: #A8A8A8;  word-spacing: 0px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;}
 }
 
 a:hover {
