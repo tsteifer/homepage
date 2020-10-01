@@ -16,7 +16,7 @@ h1 { color: #474747; background: #ffffff; position: static; line-height: 50px;
 }
 
 a:hover {
-  color: #f2f2f2; background: #ce6167; text-decoration: none;
+  color: #ce6167; text-decoration: none; transition-delay: 0;
 }
 
 body {margin-top: 40px;}
