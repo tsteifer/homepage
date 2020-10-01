@@ -10,7 +10,7 @@ h1 { color: #A8A8A8; background: #ffffff; position: static; line-height: 50px;
 @include media-breakpoint-down(md) {
   
   .welcome { color: #f2f2f2; line-height: 1em; display: block; background: #ce6167; word-spacing: 0px;
-  font-size: 10vh; ; margin: 0px 0px 10px; padding: 0px 0px 0px;}
+  font-size: 16vh; ; margin: 0px 0px 10px; padding: 0px 0px 0px;}
   
   .welcome-text {font-size: 10vh; line-height: 1empx; display: block;  word-spacing: 0px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;}
 }
