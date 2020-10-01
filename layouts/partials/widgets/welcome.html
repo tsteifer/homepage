@@ -4,17 +4,17 @@
 <div class="row">
   {{ if ne $columns "1" }}
     <div class="col-12 col-lg-4">
-      {{ with $st.Title }}<span class="welcome">{{ . | markdownify | emojify }}</span>{{ end }}
+      {{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}</div>{{ end }}
       {{ with $st.Params.subtitle }}{{ . | markdownify | emojify }}{{ end }}
     </div>
     <div class="col-12 col-lg-8">
-      <span class="welcome-text">{{ $st.Content }}</span>
+      <div class="welcome-text">{{ $st.Content }}</div>
     </div>
   {{ else }}
     <div class="col-lg-12">
       {{ with $st.Title }}<h1 class="welcome">{{ . | markdownify | emojify }}</h1>{{ end }}
       {{ with $st.Params.subtitle }}{{ . | markdownify | emojify }}{{ end }}
-      <span class="welcome-text">{{$st.Content}}</span>
+      <div class="welcome-text">{{$st.Content}}</div>
     </div>
   {{ end }}
 </div>
