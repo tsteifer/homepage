@@ -48,7 +48,7 @@ subtitle = ""
  css_class = ""
 +++
 <span class="welcome-text">
-I am a mathematician and theoretical computer scientist.
+I am a mathematician and a theoretical computer scientist.
 </span>
 
 
