@@ -47,9 +47,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-<span class="welcome-text">
 I am a&nbsp;mathematician and a&nbsp;theoretical computer scientist.
-</span>
+
 
 
 
