@@ -8,7 +8,7 @@ h1 { color: #A8A8A8; background: #ffffff; position: static; line-height: 50px;
 .welcome-container {
 	display: flex;
 	flex-direction: row;
-	flex-wrap: wrap;
+	flex-wrap: nowrap;
 	justify-content: center;
 	align-items: center;
 }
