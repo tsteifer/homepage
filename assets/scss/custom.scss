@@ -15,16 +15,16 @@ h1 { color: #A8A8A8; background: #ffffff; position: static; line-height: 50px;
 
     
 .welcome { font-family:'Fanwood Text'; color: #f2f2f2;  line-height:1em;  background: #ce6167; word-spacing: 20px;
-  font-size: 5vw; width: 25vw; margin: 0px 20px 0px 0px;  padding: 0px 0px 0px;}
+  font-size: 2vw; width: 25vw; margin: 0px 20px 0px 0px;  padding: 0px 0px 0px;}
 
-.welcome-text {font-size: 5vw; width: 40vw; line-height:1.5em; word-spacing: 3px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;}
+.welcome-text {font-size: 2vw; width: 40vw; line-height:1.5em; word-spacing: 3px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;}
 
 @include media-breakpoint-down(md) {
   
   .welcome { color: #f2f2f2; line-height: 1em; display: block; background: #ce6167; word-spacing: 0px;
-  font-size: 5vw; ; margin: 0px 0px 10px; padding: 0px 0px 0px;}
+  font-size: 2vw; ; margin: 0px 0px 10px; padding: 0px 0px 0px;}
   
-  .welcome-text {font-size: 3vw; line-height: 1em; display: block;  word-spacing: 0px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;}
+  .welcome-text {font-size: 2vw; line-height: 1em; display: block;  word-spacing: 0px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;}
 }
 
 a:hover {
