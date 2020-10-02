@@ -1,7 +1,6 @@
 {{ $st := .page }}
 {{ $columns := $st.Params.design.columns | default "2" }}
 
-<div class="row">
   {{ if ne $columns "1" }}
 	<div class="welcome-container">
       	{{ with $st.Title }}<div><div class="welcome">{{ . | markdownify | emojify }}{{ end }}</div></div>
@@ -14,4 +13,3 @@
       <span class="welcome-text"> {{$st.Content}}</span>
     </div>
   {{ end }}
-</div>
