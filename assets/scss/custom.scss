@@ -8,7 +8,7 @@ h1 { color: #A8A8A8; background: #ffffff; position: static; line-height: 50px;
 .welcome { font-family:'Fanwood Text'; color: #f2f2f2;  line-height:1em;  background: #ce6167; word-spacing: 20px;
   font-size: 4vw; height:3em; margin: 0px 20px 0px 0px;  padding: 0px 0px 0px;
   @include media-breakpoint-up(md) {font-size: 30px; color: green;} 
-  @include media-breakpoint-up(lg) {font-size: 40px; color: blue;} 
+  @include media-breakpoint-up(lg) {font-size: 40px; color: blue; word-spacing: 18px;} 
   @include media-breakpoint-up(xl) {font-size: 50px; color: hotpink;}
   @include media-breakpoint-down(md) {display: block; background: #ce6167; word-spacing: 0px;
     font-size: 30px; height:2em;}
