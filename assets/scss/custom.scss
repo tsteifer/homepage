@@ -11,9 +11,9 @@ h1 { color: #A8A8A8; background: #ffffff; position: static; line-height: 50px;
   @include media-breakpoint-up(lg) {font-size: 38px; word-spacing: 16px;} 
   @include media-breakpoint-up(xl) {font-size: 50px;}
   @include media-breakpoint-down(md) {display: block; background: #ce6167; word-spacing: 0px;
-    font-size: 45px; heigh: 1em;}
+    font-size: 45px; height: auto;}
   @include media-breakpoint-down(sm) {display: block; background: #ce6167; word-spacing: 0px;
-    font-size: 40px; heigh: 2em;}
+    font-size: 40px; height: auto;}
   @include media-breakpoint-down(xs) {display: block; background: #ce6167; word-spacing: 0px;
     font-size: 30px; height: auto;}
   }
