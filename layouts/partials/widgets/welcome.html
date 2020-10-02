@@ -2,7 +2,7 @@
 {{ $columns := $st.Params.design.columns | default "2" }}
   
 {{ if ne $columns "1" }}
-	<div class="row">
+<div class="row">
 	<div class="welcome-container">
       	{{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}{{ end }}</div>
       	<div class="welcome-text">{{ $st.Content }}</div>
