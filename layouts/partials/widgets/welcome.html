@@ -4,11 +4,7 @@
 <div class="row">
   {{ if ne $columns "1" }}
 	<div class="container">
-    <div >
       	{{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}</div>{{ end }}
-      	{{ with $st.Params.subtitle }}{{ . | markdownify | emojify }}{{ end }}
-    </div>
-    	<div>
       	<div class="welcome-text">{{ $st.Content }}</div>
     </div>
   {{ else }}
