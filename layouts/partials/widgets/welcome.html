@@ -3,12 +3,13 @@
 
 <div class="row">
   {{ if ne $columns "1" }}
+	<div class="container">
     <div class="col-12 col-lg-4">
-      {{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}</div>{{ end }}
-      {{ with $st.Params.subtitle }}{{ . | markdownify | emojify }}{{ end }}
+      	{{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}</div>{{ end }}
+      	{{ with $st.Params.subtitle }}{{ . | markdownify | emojify }}{{ end }}
     </div>
-    <div class="col-12 col-lg-8">
-      <div class="welcome-text">{{ $st.Content }}</div>
+    	<div class="col-12 col-lg-8">
+      	<div class="welcome-text">{{ $st.Content }}</div>
     </div>
   {{ else }}
     <div class="col-lg-12">
