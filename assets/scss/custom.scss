@@ -7,7 +7,7 @@ h1 { color: #A8A8A8; background: #ffffff; position: static; line-height: 50px;
 
 .welcome-container {
 	display: flex;
-	flex-direction: row-reverse;
+	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-around;
 	align-items: center;
@@ -15,7 +15,7 @@ h1 { color: #A8A8A8; background: #ffffff; position: static; line-height: 50px;
 
     
 .welcome { font-family:'Fanwood Text'; color: #f2f2f2;  line-height:1em;  background: #ce6167; word-spacing: 20px;
-  font-size: 7.5vh; ; margin: 0px 20px 0px 0px;  padding: 0px 0px 0px;}
+  font-size: 7.5vh; weight: 500px; margin: 0px 20px 0px 0px;  padding: 0px 0px 0px;}
 
 .welcome-text {font-size: 7.5vh;  word-spacing: 3px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;}
 
@@ -24,7 +24,7 @@ h1 { color: #A8A8A8; background: #ffffff; position: static; line-height: 50px;
   .welcome { color: #f2f2f2; line-height: 1em; display: block; background: #ce6167; word-spacing: 0px;
   font-size: 6vh; ; margin: 0px 0px 10px; padding: 0px 0px 0px;}
   
-  .welcome-text {font-size: 3vh; line-height: 1empx; display: block;  word-spacing: 0px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;}
+  .welcome-text {font-size: 3vh; line-height: 1em; display: block;  word-spacing: 0px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;}
 }
 
 a:hover {
