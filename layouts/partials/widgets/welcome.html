@@ -3,9 +3,9 @@
 
 <div class="row">
   {{ if ne $columns "1" }}
-	<div class="container">
-      	{{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}</div>{{ end }}
-      	<div class="welcome-text">{{ $st.Content }}</div>
+	<div><p class="welcome-container">
+      	{{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}</p></div>{{ end }}
+      	<div> <p class="welcome-text">{{ $st.Content }}</p></div>
     </div>
   {{ else }}
     <div class="col-lg-12">
