@@ -11,14 +11,14 @@ h1 { color: #A8A8A8; background: #ffffff; position: static; line-height: 50px;
   @include media-breakpoint-up(lg) {font-size: 50px; color: 'blue';} 
   @include media-breakpoint-up(xl) {font-size: 60px; color: 'hotpink';}
   @include media-breakpoint-down(md) {display: block; background: #ce6167; word-spacing: 0px;
-    font-size: 22px; ; width: auto;}
+    font-size: 22px;}
   }
 .welcome-text {font-size: 4vw; line-height:1.5em; word-spacing: 3px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;
   @include media-breakpoint-up(md) {font-size: 35px; } 
   @include media-breakpoint-up(lg) {font-size: 50px; } 
   @include media-breakpoint-up(xl) {font-size: 60px; }}
   @include media-breakpoint-down(md) {display: block; background: #ce6167; word-spacing: 0px;
-    font-size: 22px; ; width: auto;}
+    font-size: 22px;}
 }
 
 a:hover {
