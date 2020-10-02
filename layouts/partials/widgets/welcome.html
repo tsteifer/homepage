@@ -6,12 +6,12 @@
 	<div class="welcome-container">
       	{{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}{{ end }}</div>
       	<div class="welcome-text">{{ $st.Content }}</div>
-    </div>
+    </div></div>
   {{ else }}
     <div class="col-lg-12">
       {{ with $st.Title }}<h1 class="welcome">{{ . | markdownify | emojify }}</h1>{{ end }}
       {{ with $st.Params.subtitle }}{{ . | markdownify | emojify }}{{ end }}<br>
-      <span class="welcome-text"> {{$st.Content}}</span>
+      <div class="welcome-text"> {{$st.Content}}</div>
     </div>
   {{ end }}
 </div>
