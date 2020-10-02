@@ -3,8 +3,8 @@
 
   {{ if ne $columns "1" }}
 	<div class="welcome-container">
-      	{{ with $st.Title }}<div><span class="welcome">{{ . | markdownify | emojify }}</span></div>
-      	<div><span class="welcome-text">{{ $st.Content }}</span></div>
+      	{{ with $st.Title }}<div><div class="welcome">{{ . | markdownify | emojify }}</div></div>
+      	<div><div class="welcome-text">{{ $st.Content }}</div></div>
     </div>
 	{{ end }}
   {{ else }}
