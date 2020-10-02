@@ -11,7 +11,7 @@ h1 { color: #A8A8A8; background: #ffffff; position: static; line-height: 50px;
   @include media-breakpoint-up(lg) {font-size: 40px; color: blue;} 
   @include media-breakpoint-up(xl) {font-size: 50px; color: hotpink;}
   @include media-breakpoint-down(md) {display: block; background: #ce6167; word-spacing: 0px;
-    font-size: 22px; height:1em;}
+    font-size: 30px; height:2em;}
   }
 .welcome-text {font-size: 4vw; line-height:1.5em; word-spacing: 3px; font-family:'Fanwood Text'; padding: 0px; margin: 0px 0px 0px;
   @include media-breakpoint-up(md) {font-size: 30px; } 
