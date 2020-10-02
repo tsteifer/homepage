@@ -19,7 +19,7 @@ h1 { color: #A8A8A8; background: #ffffff; position: static; line-height: 50px;
   font-size: 2vw; }
 .welcome-text {font-size: 2vw;}}
 
-@include media-breakpoint-between(lg,xl) {    
+@include media-breakpoint-up(lg) {    
 .welcome {
   font-size: 1.3vw; }
 .welcome-text {font-size: 1.3vw;}}
