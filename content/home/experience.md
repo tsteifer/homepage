@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Warsaw, Poland"
   date_start = "2019-10-01"
   date_end = ""
-  description = """I am a co-investigator at the Polish National Science Center grant *Algorithmic models of prediction: formal properties and philo-sophical implications* managed by Dariusz Kalociński."""
+  description = """I am a co-investigator at the Polish National Science Center grant *Algorithmic models of prediction: formal properties and philosophical implications* managed by Dariusz Kalociński."""
   
 [[experience]]
   title = "Laboratory of Professional Electronics"
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "lecturer"
+  title = "Teaching"
   company = "University of Warsaw"
   company_url = "http://uw.edu.pl"
   location = "Warsaw, Poland"
