@@ -23,11 +23,11 @@ h1 { color: #403f3f; position: static; line-height: 50px;
   @include media-breakpoint-up(lg) {font-size: 40px; word-spacing: 16px; } 
   @include media-breakpoint-up(xl) {font-size: 52px;}
   @include media-breakpoint-down(md) {display: block; 
-    font-size: 55px; line-height:1.2em; height: auto; margin: 0px 0px 0px 0px;}
+    font-size: 52px; line-height:1.2em; height: auto; margin: 0px 0px 0px 0px;}
   @include media-breakpoint-down(sm) {
-    font-size: 50px; }
+    font-size: 47px; }
   @include media-breakpoint-down(xs) {
-    font-size: 40px; }
+    font-size: 37px; }
   }
 .welcome-text {color: #6e6e6e; font-size: 4vw; line-height:1.5em; word-spacing: 3px; font-family:'Fanwood Text'; padding-left: 0.05em; margin: 0px 0px 0px; 
 	animation: anime02 4s forwards; 
