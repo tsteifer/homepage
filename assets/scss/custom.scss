@@ -30,14 +30,14 @@ h1 { color: #403f3f; position: static; line-height: 50px;
   @include media-breakpoint-down(sm) {
     font-size: 47px; word-spacing: auto;}
   @include media-breakpoint-down(xs) {
-    font-size: 37px; }
+    font-size: 36px; }
   }
 .welcome-text {color: #6e6e6e; font-size: 4vw; line-height:1.4em; word-spacing: 3px; font-family:'Fanwood Text'; padding-left: 0.05em; padding-top: 0.25em; padding-botom: 0.25em; margin: 0px 0px 0px; 
 	animation: anime02 3s forwards; 
   @include media-breakpoint-up(md) {font-size: 32px; } 
   @include media-breakpoint-up(lg) {font-size: 42px; } 
   @include media-breakpoint-up(xl) {font-size: 52px; }
-  @include media-breakpoint-down(md) {display: block; line-height:1.0em;  word-spacing: 0px; 
+  @include media-breakpoint-down(md) {display: block; line-height:1.2em;  word-spacing: 0px; 
     font-size: 50px; margin-top:0.6em;}
   @include media-breakpoint-down(sm) {
     font-size: 45px;}
