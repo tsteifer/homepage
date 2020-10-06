@@ -51,8 +51,8 @@ h1 { color: #403f3f; position: static; line-height: 50px;
 .notes{color: #ababab;}
 
 a::after {
-  content:"°"
-    color: var{blood}
+  content:"°";
+    color: var{blood};
 }
 
 a:hover {
