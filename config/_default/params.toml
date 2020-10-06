@@ -93,7 +93,7 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "ul. Pawińskiego 5B", city = "Warszawa", region = "CA", postcode = "02-106", country = "Poland", country_code = "PL"}
+address = {street = "ul. Pawińskiego 5B", city = "Warszawa", region = "", postcode = "02-106", country = "Poland", country_code = "PL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -178,7 +178,7 @@ plugins_js  = []
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "square"
+  shape = "circle"
 
 # Configuration of publication pages.
 [publications]
@@ -259,7 +259,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 1
   api_key = ""
   zoom = 15
 
