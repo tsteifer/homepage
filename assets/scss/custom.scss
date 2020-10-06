@@ -7,6 +7,12 @@
 	100% {opacity: 1;}
 }
 
+@keyframes anime02 {
+	0% {opacity: 0;}
+	50% {opacity: 0;}
+	100% {opacity: 1;}
+}
+
 h1 { color: #403f3f; position: static; line-height: 50px; 
   font-size: 50px; margin: 0 0px 15px; padding: 0px;
     border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #ce6167; }
@@ -24,7 +30,7 @@ h1 { color: #403f3f; position: static; line-height: 50px;
     font-size: 40px; }
   }
 .welcome-text {color: #6e6e6e; font-size: 4vw; line-height:1.5em; word-spacing: 3px; font-family:'Fanwood Text'; padding-left: 0.05em; margin: 0px 0px 0px; 
-	animation: anime02 8s forwards; 
+	animation: anime02 7s forwards; 
   @include media-breakpoint-up(md) {font-size: 32px; } 
   @include media-breakpoint-up(lg) {font-size: 42px; } 
   @include media-breakpoint-up(xl) {font-size: 52px; }
