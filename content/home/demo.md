@@ -45,7 +45,7 @@ subtitle = ""
  css_style = ""
  
  # CSS class.
- css_class = ""
+ css_class = "border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #ababab; "
 +++
 I am a&nbsp;mathematician and a&nbsp;theoretical computer scientist.
 
