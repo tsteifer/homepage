@@ -22,9 +22,9 @@ h1 { color: #403f3f; position: static; line-height: 50px;
 
 .welcome { font-family:'Fanwood Text'; line-height:1em;  background: #ce6167; word-spacing: 20px;
   font-size: 4vw; height:3.3em; margin: 0px 0px 0px 0px;  padding: 0.15em; animation: anime01 3s forwards; border-radius: 0px; 
-  @include media-breakpoint-up(md) {font-size: 32px; } 
-  @include media-breakpoint-up(lg) {font-size: 40px; word-spacing: 16px; } 
-  @include media-breakpoint-up(xl) {font-size: 52px;}
+  @include media-breakpoint-up(md) {font-size: 34px; } 
+  @include media-breakpoint-up(lg) {font-size: 42px; word-spacing: 16px; } 
+  @include media-breakpoint-up(xl) {font-size: 54px;}
   @include media-breakpoint-down(md) {display: block; 
     font-size: 52px; line-height:1.2em; height: auto; margin: 0px 0px 0px 0px;}
   @include media-breakpoint-down(sm) {
