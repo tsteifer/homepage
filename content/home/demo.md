@@ -42,7 +42,7 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = "border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #ce6167;"
+ css_style = "border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #ababab;"
  
  # CSS class.
  css_class = ""
