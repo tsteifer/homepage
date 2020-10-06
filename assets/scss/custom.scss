@@ -1,5 +1,5 @@
 :root{
-    --var: 10;
+    --blood: #ce6167;
 }
 
 @keyframes anime01 {
@@ -49,6 +49,11 @@ h1 { color: #403f3f; position: static; line-height: 50px;
 .experience .card-text p {font-size: 30px} 
 
 .notes{color: #ababab;}
+
+a::after {
+  content:"°"
+    color: var{blood}
+}
 
 a:hover {
   color: #ce6167; text-decoration: none; transition-delay: 0;
