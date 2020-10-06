@@ -22,9 +22,9 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  #color = "#403f3f"
-  gradient_start = "#403f3f"
-  gradient_end = "#474747"
+  #color = "#ffffff"
+  #gradient_start = "#403f3f"
+  #gradient_end = "#474747"
   
   # Background image.
   # image = "isit.jpg"  # Name of image in `static/media/`.
