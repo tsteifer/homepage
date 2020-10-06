@@ -22,12 +22,12 @@ h1 { color: #403f3f; position: static; line-height: 50px;
   @include media-breakpoint-up(md) {font-size: 32px; } 
   @include media-breakpoint-up(lg) {font-size: 42px; } 
   @include media-breakpoint-up(xl) {font-size: 52px; }
-  @include media-breakpoint-down(md) {display: block; line-height:1em; word-spacing: 0px;
-    font-size: 40px;}
+  @include media-breakpoint-down(md) {display: block;  word-spacing: 0px;
+    font-size: 50px;}
   @include media-breakpoint-down(sm) {display: block; word-spacing: 0px;
     font-size: 45px;}
   @include media-breakpoint-down(xs) {display: block; word-spacing: 0px;
-    font-size: 30px; }
+    font-size: 35px; }
 }
 
 .notes{color: #ababab;}
