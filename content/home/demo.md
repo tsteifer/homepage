@@ -42,13 +42,11 @@ subtitle = ""
 
 [advanced]
  # Custom CSS. 
- css_style = ""
+ css_style = "border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #ce6167;"
  
  # CSS class.
  css_class = ""
 +++
 I am a&nbsp;mathematician and a&nbsp;theoretical computer scientist.
-
-<hr style="display:block; height: 1px; border-style: solid; border-color: #ababab;>
 
 
