@@ -11,22 +11,22 @@ h1 { color: #403f3f; position: static; line-height: 50px;
   @include media-breakpoint-up(md) {font-size: 32px; } 
   @include media-breakpoint-up(lg) {font-size: 40px; word-spacing: 16px; } 
   @include media-breakpoint-up(xl) {font-size: 52px;}
-  @include media-breakpoint-down(md) {display: block; background: #ce6167; word-spacing: 0px;
-    font-size: 50px; height: auto; margin: 0px 0px 0px 0px;}
-  @include media-breakpoint-down(sm) {display: block; background: #ce6167; word-spacing: 0px;
-    font-size: 45px; height: auto;}
-  @include media-breakpoint-down(xs) {display: block; background: #ce6167; word-spacing: 0px;
-    font-size: 35px; height: auto;}
+  @include media-breakpoint-down(md) {display: block;  word-spacing: 0px;
+    font-size: 55px; line-height:1.2em; height: auto; margin: 0px 0px 0px 0px;}
+  @include media-breakpoint-down(sm) {
+    font-size: 50px; }
+  @include media-breakpoint-down(xs) {
+    font-size: 40px; }
   }
 .welcome-text {color: #403f3f; font-size: 4vw; line-height:1.5em; word-spacing: 3px; font-family:'Fanwood Text'; padding-left: 0.05em; margin: 0px 0px 0px;
   @include media-breakpoint-up(md) {font-size: 32px; } 
   @include media-breakpoint-up(lg) {font-size: 42px; } 
   @include media-breakpoint-up(xl) {font-size: 52px; }
-  @include media-breakpoint-down(md) {display: block;  word-spacing: 0px;
+  @include media-breakpoint-down(md) {display: block; line-height:1.2em;  word-spacing: 0px;
     font-size: 50px;}
-  @include media-breakpoint-down(sm) {display: block; word-spacing: 0px;
+  @include media-breakpoint-down(sm) {
     font-size: 45px;}
-  @include media-breakpoint-down(xs) {display: block; word-spacing: 0px;
+  @include media-breakpoint-down(xs) {
     font-size: 35px; }
 }
 
