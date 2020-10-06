@@ -35,12 +35,15 @@ h1 { color: #403f3f; position: static; line-height: 50px;
   @include media-breakpoint-up(lg) {font-size: 42px; } 
   @include media-breakpoint-up(xl) {font-size: 52px; }
   @include media-breakpoint-down(md) {display: block; line-height:1.0em;  word-spacing: 0px; text-align:justify;
-    font-size: 50px;}
+    font-size: 50px; margin-top:1em;}
   @include media-breakpoint-down(sm) {
     font-size: 45px;}
   @include media-breakpoint-down(xs) {
     font-size: 35px; }
 }
+
+.card-title {font-size: 30px} 
+.card-text {font-size: 20px} 
 
 .notes{color: #ababab;}
 
