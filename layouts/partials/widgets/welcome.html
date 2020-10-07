@@ -2,8 +2,7 @@
 {{ $columns := $st.Params.design.columns | default "2" }}
   
 {{ if ne $columns "1" }}
-<div class="vertical-center">
-<div id="col-readmore" class="row collapse show" margin-top: 30wh; margin-bottom: 30wh;>
+<div id="col-readmore" class="row collapse show" padding-top: 30wh; padding-bottom: 30wh;>
 	<div class="col-12 col-lg-4">
     {{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}{{ end }}</div></div>
       	<div class="col-12 col-lg-8">
@@ -16,5 +15,4 @@
   <i class="fas fa-arrow-alt-circle-down"></i>
         </button>
   </div>
-</div>
 </div>
