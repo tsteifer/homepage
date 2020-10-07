@@ -10,6 +10,8 @@
     --headSize: 32px; }
 }
 
+html {scroll-behavior:smooth;}
+
 @keyframes anime01 {
 	0% {opacity: 0;}
 	100% {opacity: 1;}
