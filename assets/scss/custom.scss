@@ -97,22 +97,4 @@ body {margin-top: 40px;}
 
 .button-readmore { font-family:'Fanwood Text'; font-size: 40px;}
 
-.horizontal-center {
-  margin: 0;
-  position: absolute;
-  left: 50%;
-  -ms-transform: translateX(-50%);
-  transform: translateX(-50%);
-}
-
-
-.vertical-center {
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
-
-
 .hide-after[aria-expanded="false"] {display: none;}
