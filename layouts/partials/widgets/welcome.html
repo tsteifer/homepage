@@ -1,7 +1,7 @@
 {{ $st := .page }}
 {{ $columns := $st.Params.design.columns | default "2" }}
   
-<div id="col-readmore" class="row collapse show" style="height:calc(100vh - 50px);">
+<div id="col-readmore" class="row collapse show" style="margin-top:30vh; margin-bottom:30vh;">
 	<div class="col-12 col-lg-4">
     {{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}{{ end }}</div></div>
       	<div class="col-12 col-lg-8">
