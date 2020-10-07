@@ -29,14 +29,18 @@ h1 { color: #403f3f; position: static; line-height: 50px;
     border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #ce6167; }
 
 .welcome { font-family:'Fanwood Text'; line-height:1em;  background: #ce6167; word-spacing: 20px;
-  font-size: var(headSize); height:3.3em; margin: 0px 0px 0px 0px;  padding: 0.15em; animation: anime01 3s forwards; border-radius: 0px; 
-
-  @include media-breakpoint-up(lg) {word-spacing: 16px; } 
+  font-size: 4vw; height:3.3em; margin: 0px 0px 0px 0px;  padding: 0.15em; animation: anime01 3s forwards; border-radius: 0px; 
+  @include media-breakpoint-up(md) {font-size: 36px; } 
+  @include media-breakpoint-up(lg) {font-size: 44px; word-spacing: 16px; } 
+  @include media-breakpoint-up(xl) {font-size: 56px;}
   @include media-breakpoint-down(md) {display: block; 
-    line-height:1.2em; height: auto; margin: 0px 0px 0px 0px;}
+    font-size: 54px; line-height:1.2em; height: auto; margin: 0px 0px 0px 0px;}
   @include media-breakpoint-down(sm) {
-    word-spacing: 0;}
+    font-size: 52px; word-spacing: 0;}
+  @include media-breakpoint-down(xs) {
+    font-size: 32px; }
   }
+
 .welcome-text {color: #6e6e6e; font-size: 4vw; line-height:1.4em; word-spacing: 3px; font-family:'Fanwood Text'; padding-left: 0.05em; padding-top: 0.25em; padding-botom: 0.25em; margin: 0px 0px 0px; 
 	animation: anime02 3s forwards; 
   @include media-breakpoint-up(md) {font-size: 32px; } 
