@@ -28,7 +28,7 @@ h1 { color: #403f3f; position: static; line-height: 50px;
   @include media-breakpoint-down(md) {display: block; 
     font-size: 52px; line-height:1.2em; height: auto; margin: 0px 0px 0px 0px;}
   @include media-breakpoint-down(sm) {
-    font-size: 47px; word-spacing: auto;}
+    font-size: 47px; word-spacing: 0;}
   @include media-breakpoint-down(xs) {
     font-size: 36px; }
   }
