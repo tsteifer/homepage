@@ -1,15 +1,18 @@
 {{ $st := .page }}
 {{ $columns := $st.Params.design.columns | default "2" }}
   
-<div id="col-readmore" class="row collapse show" style="margin-top:40vh; margin-bottom:30vh;">
+<div class="collapse show">
+<div id="col-readmore" class="row" style="margin-top:40vh; margin-bottom:30vh;">
 	<div class="col-12 col-lg-4">
     {{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}{{ end }}</div></div>
       	<div class="col-12 col-lg-8">
           <div class="welcome-text">{{ $st.Content }}</div></div>
-    
+<div class="row  align-items-center">    
 <div class="col-12 button-readmore">
 <button class="btn btn-link collapsed hide-after" data-toggle="collapse" data-target="#col-readmore" aria-expanded="true" aria-controls="col-readmore">
          <p style="font-size:30px;">Read more <i class="fas fa-arrow-alt-circle-down"></i></p>
         </button>
+  </div>
+  </div>
   </div>
 </div>
