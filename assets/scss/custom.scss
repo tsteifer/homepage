@@ -84,4 +84,22 @@ body {margin-top: 40px;}
  .navbar {
   height: 40px; }
 
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+
+.horizontal-center {
+  margin: 0;
+  position: absolute;
+  left: 50%;
+  -ms-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+
 .hide-after[aria-expanded="false"] {display: none;}
