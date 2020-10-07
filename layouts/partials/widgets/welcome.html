@@ -1,8 +1,7 @@
 {{ $st := .page }}
 {{ $columns := $st.Params.design.columns | default "2" }}
   
-<div style="height:calc(100vh - 50px);">
-<div id="col-readmore" class="row collapse show">
+<div id="col-readmore" class="row collapse show" style="height:calc(100vh - 50px);">
 	<div class="col-12 col-lg-4">
     {{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}{{ end }}</div></div>
       	<div class="col-12 col-lg-8">
@@ -13,5 +12,4 @@
          Hit to read more <i class="fas fa-arrow-alt-circle-down"></i>
         </button>
   </div>
-</div>
 
