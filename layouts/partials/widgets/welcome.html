@@ -1,12 +1,12 @@
 {{ $st := .page }}
 {{ $columns := $st.Params.design.columns | default "2" }}
   
-<div class="row" style="margin-top:40vh;">
+<div class="row" style="margin-top:30px;">
 	<div class="col-12 col-lg-4">
     {{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}{{ end }}</div></div>
       	<div class="col-12 col-lg-8">
           <div class="welcome-text">{{ $st.Content }}</div></div>  </div>
-<div class="row align-items-center" style="margin-bottom:30vh;">    
+<div class="row align-items-center" style="margin-bottom:30px;">    
 <div class="col-12 col-lg-4">
 <a href="#about"><span style="color: black; font-size:30px;">Read more <i class="fas fa-arrow-alt-circle-down"></i></span></a>
   </div>
