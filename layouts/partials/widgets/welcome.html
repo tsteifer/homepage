@@ -1,7 +1,7 @@
 {{ $st := .page }}
 {{ $columns := $st.Params.design.columns | default "2" }}
   
-<div class="row" style="margin-top:30px;">
+<div class="row" style="margin-top:80px;">
 	<div class="col-12 col-lg-4">
     {{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}{{ end }}</div></div>
       	<div class="col-12 col-lg-8">
