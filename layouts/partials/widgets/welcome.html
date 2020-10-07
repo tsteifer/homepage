@@ -2,11 +2,14 @@
 {{ $columns := $st.Params.design.columns | default "2" }}
   
 {{ if ne $columns "1" }}
-<div class="row">
+<div id="col-readmore" class="row collapse show">
 	<div class="col-12 col-lg-4">
     {{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}{{ end }}</div></div>
       	<div class="col-12 col-lg-8">
           <div class="welcome-text">{{ $st.Content }}</div></div>
     </div></div>
   {{ end }}
+<button class="btn btn-link collapsed" data-toggle="collapse" data-target="#col-readmore" aria-expanded="true" aria-controls="col-readmore">
+          Read more.
+        </button>
 </div>
