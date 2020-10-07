@@ -2,7 +2,7 @@
 {{ $columns := $st.Params.design.columns | default "2" }}
   
 {{ if ne $columns "1" }}
-<div style="height:100%;>
+<div style="height:100%;">
 <div id="col-readmore" class="row collapse show">
 	<div class="col-12 col-lg-4">
     {{ with $st.Title }}<div class="welcome">{{ . | markdownify | emojify }}{{ end }}</div></div>
