@@ -33,8 +33,7 @@
 {{ with $resource }}
 <button type="button" class="btn btn-link my-1 mr-1{{ if $is_list }} btn-sm{{end}} js-cite-modal"
         data-filename="{{ .RelPermalink }}">
-  <i class="fas fa-quote-right fa-2x"></i>
-</button>
+ <i class="fas fa-quote-right fa-2x"></i></button>
 {{ end }}
 {{ with $page.Params.url_code }}
   {{ $resource := $page.Resources.GetMatch . }}
@@ -129,7 +128,7 @@
 {{ end }}
 {{ with $page.Params.doi }}
 <a class="btn btn-link my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="https://doi.org/{{ . }}" target="_blank" rel="noopener">
- <i class="ai ai-doi ai-2x"></i>
+<i class="ai ai-doi ai-2x"></i>
 </a>
 {{ end }}
 {{ range $page.Params.links }}
