@@ -29,19 +29,6 @@ h1 { color: #403f3f; position: static; line-height: 50px;
     border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #ce6167; }
 
 .welcome { font-family:'Fanwood Text'; line-height:1em;  background: #ce6167; word-spacing: 20px;
-  font-size: 4vw; margin: 0px 10vw 0px 20vw;  padding: 0.15em; animation: anime01 3s forwards; border-radius: 0px; 
-  @include media-breakpoint-up(md) {font-size: 40px; } 
-  @include media-breakpoint-up(lg) {font-size: 56px; word-spacing: 16px; } 
-  @include media-breakpoint-up(xl) {font-size: 70px;}
-  @include media-breakpoint-down(md) {display: block; 
-    font-size: 54px; line-height:1.2em; height: auto; margin: 0px 0px 0px 0px;}
-  @include media-breakpoint-down(sm) {
-    font-size: 52px; word-spacing: 0;}
-  @include media-breakpoint-down(xs) {
-    font-size: 32px; }
-  }
-
-.welcome_bak { font-family:'Fanwood Text'; line-height:1em;  background: #ce6167; word-spacing: 20px;
   font-size: 4vw; height:3.3em; margin: 0px 10vw 0px 10vw;  padding: 0.15em; animation: anime01 3s forwards; border-radius: 0px; 
   @include media-breakpoint-up(md) {font-size: 36px; } 
   @include media-breakpoint-up(lg) {font-size: 44px; word-spacing: 16px; } 
