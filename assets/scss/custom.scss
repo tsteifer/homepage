@@ -29,7 +29,7 @@ h1 { color: #403f3f; position: static; line-height: 50px;
     border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #ce6167; }
 
 .welcome { font-family:'Fanwood Text'; line-height:1em;  background: #ce6167; word-spacing: 20px;
-  font-size: 4vw; margin: 0px 20vw 0px 10vw;  padding: 0.15em; animation: anime01 3s forwards; border-radius: 0px; 
+  font-size: 4vw; margin: 0px 10vw 0px 20vw;  padding: 0.15em; animation: anime01 3s forwards; border-radius: 0px; 
   @include media-breakpoint-up(md) {font-size: 40px; } 
   @include media-breakpoint-up(lg) {font-size: 56px; word-spacing: 16px; } 
   @include media-breakpoint-up(xl) {font-size: 70px;}
