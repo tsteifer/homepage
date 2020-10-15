@@ -3,7 +3,7 @@
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget = "welcome"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "intro"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
@@ -47,6 +47,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-I am a&nbsp;mathematician and a&nbsp;theoretical computer scientist.
+Hello, my name is Tomasz Steifer
 
 
