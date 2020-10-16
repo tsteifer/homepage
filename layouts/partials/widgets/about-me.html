@@ -20,16 +20,17 @@
 <!-- About widget -->
 <div class="row">
   <div class="col-12 col-lg-4">
+    {{ if and $page.Params.widget $page.Title }}<h1 class="welcome">{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
     </div>
   </div>
   <div class="col-12 col-lg-8">
 
     {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
-    {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+    
 
     {{ $person_page.Content }}
 
-    <div class="row">
+    
             <ul class="network-icon" aria-hidden="true">
         {{ range $person.social }}
         {{ $pack := or .icon_pack "fas" }}
@@ -52,6 +53,7 @@
         </li>
         {{ end }}
       </ul>
+    <div class="row">
     </div>
   </div>
 </div>
