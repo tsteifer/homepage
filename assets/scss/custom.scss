@@ -8,7 +8,10 @@
     --headSize: 52px;}
   @include media-breakpoint-down(xs) {
     --headSize: 32px; }
+  
 }
+
+body {Roboto+Slab:wght@300}
 
 @keyframes anime01 {
 	0% {opacity: 0;}
