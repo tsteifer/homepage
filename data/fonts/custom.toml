@@ -2,14 +2,14 @@
 name = "Custom"
 
 # Optional Google font URL
-google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono|Fanwood+Text|PT+Serif|Alegreya|Quicksand"
+google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono|Fanwood+Text|PT+Serif|Alegreya|Quicksand|Piazzolla|Roboto+Slab"
 
 # Font families
 heading_font = "Fanwood Text"
-body_font = "Quicksand"
-nav_font = "Open Sans" 
-mono_font = "Open Sans"
+body_font = "Piazzolla"
+nav_font = "Roboto Slab" 
+mono_font = "Roboto Slab"
 
 # Font size
-font_size = "30"
+font_size = "28"
 font_size_small = "22"
