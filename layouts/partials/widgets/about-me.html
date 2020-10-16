@@ -20,12 +20,12 @@
 <!-- About widget -->
 <div class="row">
   <div class="col-12 col-lg-4">
-    {{ if and $page.Params.widget $page.Title }}<h1 class="welcome">{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
-    </div>
+    {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
+    {{ if and $page.Params.widget $page.Title }}<div class="welcome">{{ $page.Title | markdownify | emojify }}</div>{{ end }}
   </div>
   <div class="col-12 col-lg-8">
 
-    {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
+    
     
 
     {{ $person_page.Content }}
