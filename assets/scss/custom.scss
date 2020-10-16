@@ -1,5 +1,4 @@
 :root{
-    font-weight:200;
   @include media-breakpoint-up(md) {--headSize: 36px; } 
   @include media-breakpoint-up(lg) {--headSize:  44px;} 
   @include media-breakpoint-up(xl) {--headSize:  56px;}
@@ -11,6 +10,7 @@
   
 }
 
+p { font-weight:200;}
 
 @keyframes anime01 {
 	0% {opacity: 0;}
