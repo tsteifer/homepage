@@ -45,7 +45,7 @@ h1 { color: #403f3f; position: static; line-height: 50px;
   @include media-breakpoint-down(sm) {
     font-size: 52px; word-spacing: 0;}
   @include media-breakpoint-down(xs) {
-    font-size: 32px; }
+    font-size: 48px; }
   }
 
 .welcome-text {color: #6e6e6e; font-size: 4vw; line-height:1.4em; word-spacing: 3px; font-family:'Fanwood Text'; padding-left: 0.05em; padding-top: 0.25em; padding-botom: 0.25em; margin: 0px 0px 0px; 
