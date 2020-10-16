@@ -6,7 +6,7 @@ google_fonts = "Lato:400,700|Open+Sans|Roboto+Mono|Fanwood+Text|Piazzolla|Roboto
 
 # Font families
 heading_font = "Fanwood Text"
-body_font = "Roboto Slab"
+body_font = "Open Sans"
 nav_font = "Roboto Slab" 
 mono_font = "Roboto Slab"
 
