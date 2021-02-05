@@ -1,0 +1,21 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+
+
+<!-- Seminar widget -->
+<div class="row">
+  <div class="col-12 col-lg-12">
+
+    {{/* Only display widget title in explicit instances of about widget, not in author pages. */}}
+    {{ if and $page.Params.widget $page.Title }}<h1>{{ $page.Title | markdownify | emojify }}</h1>{{ end }}
+    
+	{{ $page.Content }}
+
+
+    
+
+    <div class="row">
+    </div>
+  </div>
+</div>
