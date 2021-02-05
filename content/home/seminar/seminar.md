@@ -4,7 +4,7 @@
 widget = "widget-page"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
 title = "Information Theory and Randomness."
 subtitle = ""
@@ -20,6 +20,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+The Information Theory and Randomness seminar is organized by me, Dariusz Kalociński and Łukasz Dębowski. The topics include but are not limited to: algorithmic randomness, prediction, Kolmogorov complexity, randomness extraction and so on. The talks are given in Polish or English. The choice of language depends on the audience. If you want to participate, please contact me.
+
 <div class="embeddable_schedule" shortname="ITaR" daterange="future"></div>
 <script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
 
