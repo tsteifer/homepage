@@ -1,10 +1,7 @@
 +++
 
 
-type = "widget_page"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-
-title = "Information Theory and Randomness."
+title = "Information Theory and Randomness"
 subtitle = ""
 
 [design.spacing]
@@ -18,7 +15,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-The Information Theory and Randomness seminar is organized by me, Dariusz Kalociński and Łukasz Dębowski. The topics include but are not limited to: algorithmic randomness, prediction, Kolmogorov complexity, randomness extraction and so on. The talks are given in Polish or English. The choice of language depends on the audience. If you want to participate, please contact me.
+The seminar is organized jointly by myself, Łukasz Dębowski and Dariusz Kalociński. 
+
+The topics include but are not limited to: algorithmic randomness, prediction, Kolmogorov complexity, randomness extraction and so on. The talks are given in Polish or English. The choice of language depends on the audience.
+
+We usually meet online on Thursdays around 10am. If you want to participate, please contact me.
 
 <div class="embeddable_schedule" shortname="ITaR" daterange="future"></div>
 <script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
