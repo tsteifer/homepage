@@ -17,7 +17,7 @@ subtitle = ""
 +++
 The seminar is organized jointly by myself, Łukasz Dębowski and Dariusz Kalociński. 
 
-The topics include but are not limited to: algorithmic randomness, prediction, Kolmogorov complexity, randomness extraction and so on. The talks are given in Polish or English. The choice of language depends on the audience.
+Typical topics include but are not limited to: algorithmic randomness, prediction, Kolmogorov complexity, randomness extraction and so on. Talks are given in Polish or English (this depends on the audience).
 
 We usually meet online on Thursdays around 10am. If you want to participate, please contact me.
 
