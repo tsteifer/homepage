@@ -21,7 +21,7 @@ Typical topics include but are not limited to: algorithmic randomness, predictio
 
 We usually meet online on Thursdays around 10am. If you want to participate, please contact me.
 
-<div class="embeddable_schedule" shortname="ITaR" daterange="future"></div>
+<div class="embeddable_schedule" shortname="ITaR" daterange="futur"></div>
 <script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
 
 
