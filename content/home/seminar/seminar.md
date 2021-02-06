@@ -21,7 +21,7 @@ Typical topics include but are not limited to: algorithmic randomness, predictio
 
 We usually meet online on Thursdays around 10am. If you want to participate, please contact me.
 
-<ul class="nav nav-pills" role="tablist">
+<ul class="nav nav-tabs" role="tablist">
   <li class="active"><a href="#sem-future" role="tab" data-toggle="tab">Upcoming</a></li>
   <li><a href="#sem-past" role="tab" data-toggle="tab">Archive</a></li>
 </ul>
