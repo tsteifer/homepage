@@ -22,22 +22,25 @@ Typical topics include but are not limited to: algorithmic randomness, predictio
 We usually meet online on Thursdays around 10am. If you want to participate, please contact me.
 
 <ul class="nav nav-tabs" role="tablist">
-  <li class="active"><a href="#sem-future" role="tab" data-toggle="tab">Upcoming</a></li>
-  <li><a href="#sem-past" role="tab" data-toggle="tab">Archive</a></li>
+  <li class="nav-item">
+    <a class="nav-link active" href="#sem-future" data-toggle="tab" id="tab-sem-future" role="tab">Upcoming</a>
+  </li>
+<li class="nav-item">
+    <a class="nav-link" href="#sem-past" data-toggle="tab" id="tab-sem-past" role="tab">Past </a>
+  </li>
+
 </ul>
 
-<!-- Zawartość zakładek -->
+
 <div class="tab-content">
-  <div class="tab-pane active" id="future">
+  <div class="tab-pane fade show active" id="sem-future" aria-labelledby="tab-sem-future" role="tabpanel">
 	<div class="embeddable_schedule" shortname="ITaR" daterange="future"></div>
-<script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
 </div>
-  <div class="tab-pane" id="past">
+  <div class="tab-pane fade" id="sem-past"  aria-labelledby="tab-sem-past" role="tabpanel">
 <div class="embeddable_schedule" shortname="ITaR" daterange="past"></div>
+</div>
+
+</div>
 <script src="https://researchseminars.org/embed_seminars.js" onload="seminarEmbedder.initialize({'addCSS': true});"></script>
-</div>
-
-</div>
-
 
 
