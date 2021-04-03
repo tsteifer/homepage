@@ -7,7 +7,7 @@
     {{ partial "page_metadata_authors" . }}
   </span>
   ({{- .Date.Format "2006" -}}).
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
+  <a href="{{ .pub_link }}">{{ .Title }}</a>.
   {{ if .Params.publication_short }}
   {{- .Params.publication_short | markdownify -}}.
   {{ else if .Params.publication }}
@@ -21,7 +21,7 @@
   <span class="article-metadata li-cite-author">
     {{ partial "page_metadata_authors" . }}.
   </span>
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a>.
+  <a>{{ .Title }}</a>.
   {{ if .Params.publication_short }}
   {{- .Params.publication_short | markdownify -}},
   {{ else if .Params.publication }}

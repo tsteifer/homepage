@@ -19,7 +19,7 @@ The seminar is organized jointly by myself, Łukasz Dębowski and Dariusz Kaloci
 
 Typical topics include but are not limited to: algorithmic randomness, prediction, Kolmogorov complexity, randomness extraction and so on. Talks are given in Polish or English (this depends on the audience).
 
-We usually meet online on Thursdays around 10am. If you want to participate, please contact me.
+We usually meet online on Thursdays around 10am CET. If you want to participate, please contact me.
 
 <ul class="nav nav-tabs" role="tablist">
   <li class="nav-item">
