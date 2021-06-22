@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Mathematician and theoretical computer scientist at the Institute of Fundamental Technological Research, Polish Academy of Sciences"
+description = "My name is Tomasz Steifer. I am a mathematician and theoretical computer scientist working at the Institute of Fundamental Technological Research, Polish Academy of Sciences"
 
 ############################
 ## Site Features
@@ -275,7 +275,7 @@ plugins_js  = []
 ############################
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = true
+  netlify_cms = false
 
 ############################
 ## Icon Pack Extensions
