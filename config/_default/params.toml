@@ -93,14 +93,16 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "ul. Pawińskiego 5B", city = "Warszawa", region = "", postcode = "02-106", country = "Poland", country_code = "PL"}
+address = {street = "Vicuña Mackenna 4860", city = "Macul, Santiago", region = "", postcode = "", country = "Chile", country_code = "CL"}
+#address = {street = "ul. Pawińskiego 5B", city = "Warszawa", region = "", postcode = "02-106", #country = "Poland", country_code = "PL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.206773", longitude = "20.980976"}
+coordinates = {latitude = "-33.499311", longitude = "-70.615070"}
+#coordinates = {latitude = "52.206773", longitude = "20.980976"}
 
 # Directions for visitors to locate you.
-directions ="Office 538 on Floor 5"
+directions ="Office P12 on Floor 4"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
