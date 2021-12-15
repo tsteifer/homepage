@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-# role: Professor of Artificial Intelligence
+# role: Assistant Professor of Mathematical Logic and Computer Science
 
 # Organizations/Affiliations
 # organizations:
