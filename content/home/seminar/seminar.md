@@ -1,5 +1,6 @@
 +++
 
+active = false  # Activate this widget? true/false
 
 title = "Information Theory and Randomness"
 subtitle = ""
